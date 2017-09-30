@@ -1,8 +1,8 @@
-package eventmanager.ndcs.hackathon.myapplication.application;
+package eventmanager.ndcs.hackathon.app.application;
 
 import android.app.Application;
 
-import eventmanager.ndcs.hackathon.myapplication.model.User;
+import eventmanager.ndcs.hackathon.app.model.User;
 
 /**
  * Created by miguel on 30/9/17.

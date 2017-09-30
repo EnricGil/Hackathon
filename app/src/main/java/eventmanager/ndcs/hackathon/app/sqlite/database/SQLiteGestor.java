@@ -1,4 +1,4 @@
-package eventmanager.ndcs.hackathon.myapplication.sqlite.database;
+package eventmanager.ndcs.hackathon.app.sqlite.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

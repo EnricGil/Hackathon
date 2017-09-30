@@ -1,4 +1,4 @@
-package eventmanager.ndcs.hackathon.myapplication;
+package eventmanager.ndcs.hackathon.app;
 
 import org.junit.Test;
 

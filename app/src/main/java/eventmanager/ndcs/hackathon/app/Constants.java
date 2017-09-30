@@ -1,4 +1,4 @@
-package eventmanager.ndcs.hackathon.myapplication;
+package eventmanager.ndcs.hackathon.app;
 
 /**
  * Created by miguel on 29/9/17.

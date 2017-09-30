@@ -1,12 +1,11 @@
-package eventmanager.ndcs.hackathon.myapplication.sqlite.database;
+package eventmanager.ndcs.hackathon.app.sqlite.database;
 
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import eventmanager.ndcs.hackathon.myapplication.Constants;
-import eventmanager.ndcs.hackathon.myapplication.application.EventmanagerApplication;
-import eventmanager.ndcs.hackathon.myapplication.model.User;
+import eventmanager.ndcs.hackathon.app.Constants;
+import eventmanager.ndcs.hackathon.app.model.User;
 
 /**
  * Created by miguel on 30/9/17.

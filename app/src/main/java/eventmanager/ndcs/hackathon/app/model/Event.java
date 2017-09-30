@@ -1,4 +1,4 @@
-package eventmanager.ndcs.hackathon.myapplication.model;
+package eventmanager.ndcs.hackathon.app.model;
 
 import java.util.Date;
 import java.util.Map;

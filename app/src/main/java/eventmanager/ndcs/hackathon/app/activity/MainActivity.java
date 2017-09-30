@@ -1,9 +1,9 @@
-package eventmanager.ndcs.hackathon.myapplication.activity;
+package eventmanager.ndcs.hackathon.app.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import eventmanager.ndcs.hackathon.myapplication.R;
+import eventmanager.ndcs.hackathon.app.R;
 
 public class MainActivity extends AppCompatActivity {
 
