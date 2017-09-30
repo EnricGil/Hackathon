@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="eventmanager.ndcs.hackathon.app.activity.MainActivity">
+        <activity android:name=".activity.MainActivity_">
+
+        </activity>
+        <activity
+            android:name=".activity.login.LoginActivity_"
+            android:label="@string/title_activity_login">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
